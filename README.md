@@ -6,8 +6,8 @@ This PowerBI dashboard provides an interactive view of sales and shiping perfoma
 * **Interactive Slicers:** Filter data by Year and Product for targeted analysis.  
 * **Trends Over Time:** Track Sales and Boxes Shipped by month to identify seasonal patterns.  
 * **Perfomance Analysis:**  
-         * Top 10 Products and Sales by Country for product and regional insights.  
-         * Top 10 Salespersons and YOY% Change for Top 5 Products to highlight high perfomers.  
+       * Top 10 Products and Sales by Country for product and regional insights.  
+       * Top 10 Salespersons and YOY% Change for Top 5 Products to highlight high perfomers.  
 * **Key Metrcs at a Glance:** Cards show Total Sales, Average Sales and Total Boxes Shipped to quickly assess perfomance.
 
 **Data & Methodology**  
