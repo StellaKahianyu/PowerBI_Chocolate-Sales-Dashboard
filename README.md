@@ -1,4 +1,8 @@
 # PowerBI_Chocolate-Sales-Dashboard
+<img width="596" height="337" alt="image" src="https://github.com/user-attachments/assets/1065ca4e-2a65-465e-8b3f-14aee8ea9221" />
+
+
+
 **Overview**  
 This PowerBI dashboard provides an interactive view of sales and shiping perfomance, enabling quick insights into trends , top performers, and key business metrics. It combines visual storytelling with actionable insights, allowing users to explore data by year, product, region, and sales personnel.
 
