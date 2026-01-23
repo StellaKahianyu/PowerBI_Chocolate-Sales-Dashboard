@@ -15,7 +15,7 @@ This PowerBI dashboard provides an interactive view of sales and shiping perfoma
 * **Key Metrcs at a Glance:** Cards show Total Sales, Average Sales and Total Boxes Shipped to quickly assess perfomance.
 
 **Data & Methodology**  
-* The dashboard uses structured sales and shipping data, with transformations performed in **Power Query** and key metrics calculated using **DAX**.  
+* The dashboard uses structured sales and shipping data, downloaded from Kaggle, with transformations performed in **Power Query** and key metrics calculated using **DAX**.  
 * Data includes:  
     * Sales Person  
     * Country  
